@@ -1679,7 +1679,7 @@ msgid "Pre-set"
 msgstr "Pre-Configuração"
 
 msgid "Prepend"
-msgstr ""
+msgstr "Preceder"
 
 msgid "Press a key or a key combination"
 msgstr "Pressione uma tecla ou uma combinação de teclas"
